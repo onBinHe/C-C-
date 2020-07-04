@@ -1,0 +1,2 @@
+D:\ROS学习之旅\C++\C++ code\C++ learning project\P1_helloworld\Debug\P1_helloworld.exe
+D:\ROS学习之旅\C++\C++ code\C++ learning project\P1_helloworld\Debug\P1_helloworld.pdb
