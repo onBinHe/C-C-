@@ -1,0 +1,3 @@
+﻿  judgeMultiple.cpp
+D:\GitHub\onBinHe\C-C-\nowcoder_studycode\P3_judgeMultiple2_5_11_13\judgeMultiple\judgeMultiple\judgeMultiple.cpp(65,52): warning C4244: “参数”: 从“__int64”转换到“const unsigned int”，可能丢失数据
+  judgeMultiple.vcxproj -> D:\GitHub\onBinHe\C-C-\nowcoder_studycode\P3_judgeMultiple2_5_11_13\judgeMultiple\Debug\judgeMultiple.exe
